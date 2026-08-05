@@ -4,7 +4,7 @@ Concise English notes on quantitative finance, trading, and related topics.
 
 ## Goals
 
-- Capture the key ideas from my learning.
+- Capture the key ideas from learning.
 - Explain concepts clearly and briefly.
 - Keep useful formulas, examples, and references easy to review.
 
